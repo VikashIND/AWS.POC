@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.36105.23 d17.13
+VisualStudioVersion = 17.13.36105.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cred.Demo", "Cred.Demo\Cred.Demo.csproj", "{EC9796F2-B147-4581-BF23-CDF8396250ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda.Demo", "Lambda.Demo\Lambda.Demo.csproj", "{A000D194-C51B-86F4-4456-BAB36ABF9ACF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{EC9796F2-B147-4581-BF23-CDF8396250ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC9796F2-B147-4581-BF23-CDF8396250ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC9796F2-B147-4581-BF23-CDF8396250ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A000D194-C51B-86F4-4456-BAB36ABF9ACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A000D194-C51B-86F4-4456-BAB36ABF9ACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A000D194-C51B-86F4-4456-BAB36ABF9ACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A000D194-C51B-86F4-4456-BAB36ABF9ACF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
