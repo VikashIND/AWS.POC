@@ -1,0 +1,2 @@
+﻿Install-Package AWSSDK.S3
+Install-Package AWSSDK.Extensions.NETCore.Setup
