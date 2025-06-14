@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S3.Demo.API", "S3.Demo.API\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gateway.Demo", "Gateway.Demo\Gateway.Demo.csproj", "{F9BD9314-FAD6-3421-BC80-E958A767C5AC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManager", "StudentManager\StudentManager.csproj", "{894A9B7B-AF83-275E-117A-A6BC0040563E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{F9BD9314-FAD6-3421-BC80-E958A767C5AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9BD9314-FAD6-3421-BC80-E958A767C5AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9BD9314-FAD6-3421-BC80-E958A767C5AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{894A9B7B-AF83-275E-117A-A6BC0040563E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{894A9B7B-AF83-275E-117A-A6BC0040563E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{894A9B7B-AF83-275E-117A-A6BC0040563E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{894A9B7B-AF83-275E-117A-A6BC0040563E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
