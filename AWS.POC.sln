@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda.Demo", "Lambda.Demo\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S3.Demo.API", "S3.Demo.API\S3.Demo.API.csproj", "{E128E0B9-73B1-4603-AD73-591D2A8520EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gateway.Demo", "Gateway.Demo\Gateway.Demo.csproj", "{F9BD9314-FAD6-3421-BC80-E958A767C5AC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{E128E0B9-73B1-4603-AD73-591D2A8520EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E128E0B9-73B1-4603-AD73-591D2A8520EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E128E0B9-73B1-4603-AD73-591D2A8520EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9BD9314-FAD6-3421-BC80-E958A767C5AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9BD9314-FAD6-3421-BC80-E958A767C5AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9BD9314-FAD6-3421-BC80-E958A767C5AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9BD9314-FAD6-3421-BC80-E958A767C5AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
