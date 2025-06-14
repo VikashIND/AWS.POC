@@ -22,7 +22,7 @@ namespace Cred.Demo.Controllers
                 var secretKey = _configuration.GetValue<string>("AWS:SecretKey");
                 var region = _configuration.GetValue<string>("AWS:Region");
                 var s3Client = new AmazonS3Client(accessKey, secretKey, Amazon.RegionEndpoint.GetBySystemName(region));
-                //var s3Client = new AmazonS3Client("AKIAYNQXHALNHSUU7TZN", "cSvZ/pS9/pLm2cO1Q85IH2sYDEiNdjKx7F88jVri", Amazon.RegionEndpoint.USEast1);
+               
                 var data = await s3Client.ListBucketsAsync();
                 var buckets = data.Buckets.Select(b => { return b.BucketName; });
                 return Ok(buckets);
