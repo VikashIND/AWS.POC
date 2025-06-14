@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManager", "StudentMa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderService", "OrderService\OrderService.csproj", "{D99B92AF-9E53-419B-8C42-EAD2C4A08658}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SNSwithLambda", "SNSwithLambda\SNSwithLambda.csproj", "{7BCB3282-E9FF-4A63-F955-66C5A1620FFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{D99B92AF-9E53-419B-8C42-EAD2C4A08658}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D99B92AF-9E53-419B-8C42-EAD2C4A08658}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D99B92AF-9E53-419B-8C42-EAD2C4A08658}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BCB3282-E9FF-4A63-F955-66C5A1620FFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BCB3282-E9FF-4A63-F955-66C5A1620FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BCB3282-E9FF-4A63-F955-66C5A1620FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BCB3282-E9FF-4A63-F955-66C5A1620FFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
