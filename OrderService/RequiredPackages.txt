@@ -1,0 +1,2 @@
+﻿Install-Package AWSSDK.SimpleNotificationService
+Install-Package AWSSDK.Extensions.NETCore.Setup
